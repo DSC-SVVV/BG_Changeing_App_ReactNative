@@ -1,19 +1,12 @@
 # BG_Changing_App_ReactNative
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/DSC-SVVV/BG_Changing_App_ReactNative">
-	<img src="images/logo.png" alt="Logo" width="80" height="80">
+	
   </a>
 
   <h3 align="center">Color Changing App</h3>
