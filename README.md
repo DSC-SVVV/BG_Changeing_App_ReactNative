@@ -1,6 +1,37 @@
 # BG_Changing_App_ReactNative
 
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/DSC-SVVV/BG_Changing_App_ReactNative">
+	<img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Color Changing App</h3>
+
+  <p align="center">
+    An awesome background color changing app in React Native!
+    <br />
+    <a href="https://github.com/DSC-SVVV/BG_Changing_App_ReactNative"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/DSC-SVVV/BG_Changing_App_ReactNative">View Demo</a>
+    ·
+    <a href="https://github.com/DSC-SVVV/BG_Changing_App_ReactNative">Report Bug</a>
+    ·
+    <a href="https://github.com/DSC-SVVV/BG_Changing_App_ReactNative">Request Feature</a>
+  </p>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
